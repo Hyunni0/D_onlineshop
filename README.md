@@ -1,4 +1,4 @@
-# onlineshop
+# Django_onlineshop
 
 ![image](https://github.com/Hyunni0/onlineshop/assets/97932296/100c0a16-e103-4461-b144-9c1cea11926a)
 
